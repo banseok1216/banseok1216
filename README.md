@@ -7,6 +7,7 @@
   - Issue #5176: https://github.com/spring-projects/spring-batch/issues/5176
 - PR #5143: https://github.com/spring-projects/spring-batch/pull/5143  
   - Issue #5142: https://github.com/spring-projects/spring-batch/issues/5142
+- PR #5119: https://github.com/spring-projects/spring-batch/pull/5119
 - PR #5113: https://github.com/spring-projects/spring-batch/pull/5113  
   - Issue #5112: https://github.com/spring-projects/spring-batch/issues/5112
 - PR #5141: https://github.com/spring-projects/spring-batch/pull/5141  
