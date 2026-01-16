@@ -1,6 +1,6 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bansuk1216)](https://solved.ac/bansuk1216/)
 
-## Open Source Contributions
+## Open Source
 
 ### spring-projects/spring-batch
 - PR #5177: https://github.com/spring-projects/spring-batch/pull/5177  
