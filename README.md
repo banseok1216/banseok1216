@@ -14,6 +14,7 @@
 | [#5143](https://github.com/spring-projects/spring-batch/pull/5143) | Deprecate `StepExecution` convenience getters for `JobExecution` id and parameters | [#5142](https://github.com/spring-projects/spring-batch/issues/5142) Deprecate StepExecution convenience getters for JobExecution id and parameters |
 | [#5119](https://github.com/spring-projects/spring-batch/pull/5119) | Remove redundant assert in `StoredProcedureItemReader` | - |
 | [#5113](https://github.com/spring-projects/spring-batch/pull/5113) | Replace `CopyOnWriteArrayList` with `ArrayList` in paging item readers | [#5112](https://github.com/spring-projects/spring-batch/issues/5112) Performance and correctness improvement for `JdbcPagingItemReader` and `JpaPagingItemReader` |
+| [#5281](https://github.com/spring-projects/spring-batch/pull/5282) | Fix make JsonObjectReader close operations null-safe | [#5112](https://github.com/spring-projects/spring-batch/issues/5281) NullPointerException in JacksonJsonObjectReader.close() and GsonJsonObjectReader.close() |
 
 ### spring-projects/spring-restdocs
 
